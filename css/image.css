@@ -1,0 +1,9 @@
+.img-responsive{
+  border-radius: 50%;
+  padding: 0px;
+}
+
+#project .img-responsive{
+  border-radius: 0%;
+  padding: 0px;
+}
