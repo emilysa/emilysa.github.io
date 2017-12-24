@@ -1,3 +1,4 @@
+/*Last Updated: March 5th, 2017*/
 body{
   color: #333232;
 }
@@ -37,6 +38,9 @@ p{
 a{
     color: #f29258;
 }
+a:visited {
+    color: #f29258;
+}
 a:hover {
     text-decoration: none;
     color: rgba(252, 229, 155, 1);
@@ -48,4 +52,8 @@ a:hover {
 
 .fa-4x {
     letter-spacing: 12px;
+}
+
+#bio{
+  text-align: right;
 }

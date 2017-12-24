@@ -1,3 +1,4 @@
+/*Last Updated: September 15th, 2017*/
 .navbar-default {
     border-color: rgba(34,34,34,.5);
     background-color: #fff;
@@ -45,7 +46,7 @@
 @media(min-width:768px) {
     .navbar-default {
         border-color: rgba(255,255,255,.4);
-        background-color: rgba(129, 129, 129, 0.5);
+        background-color: rgba(128, 128, 128, 1);
     }
 
     .navbar-default .navbar-header .navbar-brand {
@@ -104,6 +105,7 @@
 #contact-nav:hover{
   color: #f29258;
 }
+
 #contact-nav{
   margin-right: 15px;
 }
